@@ -33,7 +33,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
     
     edit account settings;
     
-![](https://github.com/Fatema2506/edoc-doctor-appointment-system/blob/main/Screenshots/Screenshot%20(9).png)
+![](https://github.com/Fatema2506/edoc-doctor-appointment-system/blob/main/Screenshots/Screenshot(9).png)
     
   3.Patiens(Clients)
   
