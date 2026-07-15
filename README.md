@@ -49,7 +49,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
     edit account settings;
     
     
-![](https://github.com/Fatema2506/edoc-doctor-appointment-system/blob/main/Screenshots/Screenshot%20(6).png)  
+![](https://github.com/Fatema2506/edoc-doctor-appointment-system/blob/main/Screenshots/Screenshot(6).png)
     
 If you are Admin,doctor or patient ,only have one page to login :)
 
